@@ -12,11 +12,11 @@ Do we need [[Digital garden standards]]?
 
 ## Twin Pages
 
-- [JoelHooks](https://joelhooks.com/digital-garden)
-- [WebSeitz](http://webseitz.fluxent.com/wiki/DigitalGarden)
-- [ThoughtStorms](http://thoughtstorms.info/view/DigitalGarden)
-- [MentalNodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
-- [Noodlemaps](https://commonplace.doubleloop.net/20200719024900-digital_garden)
+- [JoelHooks::DigitalGarden](https://joelhooks.com/digital-garden)
+- [WebSeitz::DigitalGarden](http://webseitz.fluxent.com/wiki/DigitalGarden)
+- [ThoughtStorms::DigitalGarden](http://thoughtstorms.info/view/DigitalGarden)
+- [MentalNodes::DigitalGarden](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
+- [Noodlemaps::DigitalGarden](https://commonplace.doubleloop.net/20200719024900-digital_garden)
 
 ## See Also
 
