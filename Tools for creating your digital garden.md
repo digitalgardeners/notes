@@ -1,6 +1,8 @@
 ---
 ---
 
+There's lots of tools to help you create your [[digital garden]].
+
 ## Resources
 
 - [Open source and self-hosted alternatives to Roam Research](https://nesslabs.com/roam-research-alternatives)
