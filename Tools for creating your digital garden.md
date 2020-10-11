@@ -1,2 +1,11 @@
 ---
 ---
+
+## Resources
+
+- [Open source and self-hosted alternatives to Roam Research](https://nesslabs.com/roam-research-alternatives)
+- [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management#applications-and-tools)
+- [Artificial Brain Networked notebook app](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
+
+
+
