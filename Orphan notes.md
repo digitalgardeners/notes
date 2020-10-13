@@ -25,3 +25,9 @@ Maybe you have an orphan note for a short period - but eventually you do tidy it
 > In such cases I add them to my “ideas” page, which also acts as a kind of an index of the various topics I have notes on and as the entry point to my garden.
 >
 > **Aakarsh**: The latest update on [[Obsidian]] seems to be facilitating just this. Nick Milo does what he calls as #workbench - a kitchen table of sorts to work with ideas, connect, clean, discard etc. Check this out: [https://youtu.be/L8ymPug8GjE](https://youtu.be/L8ymPug8GjE)
+>
+> **phil**: I just automatically generate a page of orphans ... http://thoughtstorms.info/view/OrphanPages
+>
+> The other thing to remember about orphans is that they aren't necessarily born that way. Many orphan pages on ThoughtStorms are orphans because a page linking to them was deleted or edited.
+>
+> **neil**: For tools with a [[graph view]] that can be one way to discover orphan pages while gardening.  (Though a list page is obviously much more practical, if your tool has it.)
