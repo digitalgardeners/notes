@@ -8,7 +8,7 @@ A digital garden is a public site used for collecting and sharing knowledge.
 
 Tended to by a [[Digital gardener]].
 
-Do we need [[Digital garden standards]]?
+Looking to get started? [[Getting started with a digital garden]].
 
 ## Twin Pages
 
