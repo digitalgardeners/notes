@@ -30,4 +30,21 @@ Maybe you have an orphan note for a short period - but eventually you do tidy it
 >
 > The other thing to remember about orphans is that they aren't necessarily born that way. Many orphan pages on ThoughtStorms are orphans because a page linking to them was deleted or edited.
 >
-> **neil**: For tools with a [[graph view]] that can be one way to discover orphan pages while gardening.  (Though a list page is obviously much more practical, if your tool has it.)
+> **neil**: For tools with a [[graph view]] that can be one way to discover orphan pages while gardening.  (Though a list page is obviously much more practical, if your tool has it.) https://commonplace.doubleloop.net/2020-05-03
+>
+> **Bill Seitz**: Some people like a RandomPage feature. You could make a RandomOrphan feature.
+>
+> **neil**:That could just be part of a regular wiki gardening habit. Perhaps tools like Roam that encourage the use a daily page, could have an option to add a checklist to your daily page, of X random orphan pages you should have a look at and try and link, or clear out if no longer useful.
+>
+> **Fabrice Liut**: You can do it in Roam with Query.
+>
+> **Bill Seitz**: Another idea: whenever a page you're looking at (say, from a Search) is an Orphan, that could be noted loudly on the first line, to nudge you.
+>
+> You could also just not worry about orphans. Like letting stuff fall off your ToDoList. If it matters it will come up again.
+>
+> A cousin of Orphans is [[Missing Pages]]: phrases double-bracketed on (multiple) pages for which there is no page. Usually these are generic entities, but not always
+>
+> **Anne-Laure**: I set up my TiddlyWiki to automatically create double bracketed pages like Roam does.
+>
+> This way at least there's a node even if it's empty
+>
