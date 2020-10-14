@@ -18,6 +18,10 @@ Looking to get started? [[Getting started with a digital garden]].
 - [MentalNodes::DigitalGarden](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
 - [Noodlemaps::DigitalGarden](https://commonplace.doubleloop.net/20200719024900-digital_garden)
 
+## Articles
+
+- [Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
+
 ## See Also
 
 - [[Personal wiki]]
