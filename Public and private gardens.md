@@ -1,7 +1,7 @@
 ---
 ---
 
-Should a [[digital garden]] be public?
+Are [[digital garden]]s always public?
 
 > **Bill Seitz**
 > It's interesting you define digital garden as public-readable.
