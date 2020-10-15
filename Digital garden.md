@@ -20,6 +20,7 @@ Looking to get started? [[Getting started with a digital garden]].
 
 ## Articles
 
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) 
 - [Digital gardens let you cultivate your own little bit of the internet](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 
 ## See Also
