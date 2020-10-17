@@ -7,4 +7,4 @@ To facilitate discovery and linking.
 
 ## Twin pages
 
-- [Webseitz](http://webseitz.fluxent.com/wiki/DigitalGarden)
+- [WebSeitz::DigitalGardenStandards](http://webseitz.fluxent.com/wiki/DigitalGardenStandards)
